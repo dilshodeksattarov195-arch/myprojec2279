@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedync",
+        "uuid": 8632852,
+        "checksum": "sxefqc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
